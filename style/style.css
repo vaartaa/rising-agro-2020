@@ -9,10 +9,12 @@ body
 { font: normal .80em 'trebuchet ms', arial, sans-serif;
   background: #FFF;
   color: #555;}
+  
 
 p
 { padding: 0 0 20px 0;
   line-height: 1.7em;}
+
 
 img
 { border: 0;}
@@ -130,6 +132,12 @@ ol li
   color: #FFF;
   letter-spacing: 0.1em;
   text-decoration: none;}
+
+p#bigger{
+	font: normal 1.3em 'trebuchet ms', arial, sans-serif;
+	padding: 0 0 20px 0;
+  line-height: 1.7em;
+}
 
 #logo_text h1 a .logo_colour
 { color: #E4EC04;}
